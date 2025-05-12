@@ -1,0 +1,7 @@
+textract
+PyPDF2
+python-docx
+openpyxl
+xlrd
+python-pptx
+pywin32
